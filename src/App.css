@@ -8,13 +8,396 @@
        background-color: #282c34;
        min-height: 100vh;
        background: url("street.png") no-repeat;
+       display:flex;
+       justify-content:center;
+       align-items:center;
        background-size:100% 100vh;
   }
+
+.main {
+   display:flex;
+   flex-flow:column wrap;
+   align-items:center;
+
+}
   
 .title{
    position:absolute;
-   top: 30%;
+   top: 15%;
    left:45%;
    background:rgb(10, 171, 230);
-   color: white;
+   color: yellow;
 }
+
+.post-btn {
+    width:5.5rem;
+    height:3rem;
+    font-size:2rem;
+    border-radius:1rem;
+}
+
+.text {
+   font-size:3rem;
+   color:white;
+}
+
+.tell {
+    font-size:3rem;
+    color: rgb(24, 154, 229);
+    background:yellow;
+    margin:2rem;
+}
+
+.txtBox {
+   width:38rem;
+   height:15rem;
+   padding:1rem;
+   font-size:1.2rem;
+   font-weight:bold;
+   margin:1rem;
+}
+
+.count {
+   width: 50px;
+   height:50px;
+   color:red;
+   font-size: 3rem; 
+   text-align:center;
+}
+
+.reset-btn {
+   width:5rem;
+   height:2rem;
+   margin-top: 30px;
+   font-size:1.5rem;
+   border-radius:10px;
+   border:none;
+   outline:none;
+   cursor:pointer;
+}
+.reset-btn:hover{
+   background:yellow;
+   color:rgb(22, 119, 236)
+}
+
+.stop-btn {
+   width:5rem;
+   height:2rem;
+   margin-top: 30px;
+   font-size:1.5rem;
+   border-radius:10px;
+   border:none;
+   outline:none;
+   cursor:pointer;
+}
+
+.stop-btn:hover{
+   color:red;
+   background:rgb(26, 192, 76)
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
