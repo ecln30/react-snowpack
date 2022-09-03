@@ -1,0 +1,20 @@
+* {
+   margin:0;
+   padding:0;
+}
+
+.App {
+       text-align: center;
+       background-color: #282c34;
+       min-height: 100vh;
+       background: url("street.png") no-repeat;
+       background-size:100% 100vh;
+  }
+  
+.title{
+   position:absolute;
+   top: 30%;
+   left:45%;
+   background:rgb(10, 171, 230);
+   color: white;
+}
